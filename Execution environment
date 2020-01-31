@@ -1,0 +1,20 @@
+Execution environment:
+
+Anaconda version 2019.10 (custom) with Python version 3.7.1, updated as of January 28, 2020
+
+Required packages (use pip install or conda install)
+
+numpy -- data management, algebra
+pandas -- advanced data management and analysis
+matplotlib, seaborn -- plotting
+sklearn -- machine learning applications
+json -- read json files
+os, zipfile -- file system management
+urllib -- handle url requests
+sodapy -- access data from NYC Open Data
+geopandas, geoplot, fiona, shapely -- map plotting
+geopy -- geographical distance calculations
+sklearn -- machine learning
+datetime -- manipulating data and time
+
+After installing packages, or using the provided environment file, the notebook produces all output into its working directory. The runtime is about 6 hours (tested on i5 4C@2.3 GHz, 16 GB RAM).
